@@ -1,5 +1,6 @@
 """
 Geohash Length-Precision tradeoff
+Use CodeSkulptor www.codeskulptor.org
 """
 import simpleplot
 import math
